@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>WiiFlow Lite Einstein Mod Forwarder</name>
+  <coder>einsteinx2</coder>
+  <version>1</version>
+  <release_date>20183012000000</release_date>
+  <short_description>Opens /apps/wiiflow_einstein/boot.dol</short_description>
+  <long_description>
+    Just opens WiiFlow Lite Einstein Mod from /apps/wiiflow_einstein/boot.dol.
+
+    For use with Priiloader to easily launch on device boot.
+  </long_description>
+  <no_ios_reload/>
+</app>
